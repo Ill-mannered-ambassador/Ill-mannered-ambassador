@@ -4,7 +4,7 @@
 
 I'm an Engineering Physics student at IIT (ISM) Dhanbad.
 ### 🛡️ What I'm Up To
-* ⚔️ Cybersecurity enthusiast, in learning phase, planning to get to know the open source community better and contribute in the near future.
+* ⚔️ Cybersecurity enthusiast, planning to get to know the open source community better and contribute in the near future.
 
 ### 🛠️ Tech & Tools
 * **Languages:** C, Python, Bash and learning C++
@@ -25,5 +25,5 @@ I like reading (pretty much anything at this point from novels, poems, short sto
 *Stay Determined :)*
 
 ### 📊 GitHub Stats
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ill-mannered-ambassador&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ill-mannered-ambassador&layout=compact&theme=tokyonight)
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ill-mannered-ambassador&show_icons=true&theme=tokyonight&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ill-mannered-ambassador&layout=compact&theme=tokyonight&v=1)
