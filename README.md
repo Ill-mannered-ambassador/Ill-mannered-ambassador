@@ -24,6 +24,3 @@ I like reading (pretty much anything at this point from novels, poems, short sto
 
 *Stay Determined :)*
 
-### 📊 GitHub Stats
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ill-mannered-ambassador&show_icons=true&theme=tokyonight&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ill-mannered-ambassador&layout=compact&theme=tokyonight&v=1)
