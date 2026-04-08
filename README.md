@@ -1,5 +1,3 @@
-<img width="1423" height="2048" alt="image" src="https://github.com/user-attachments/assets/907f7897-b6b4-495a-8006-d07b1647e811" />
-
 <img width="1446" height="142" alt="ascii-art-text" src="https://github.com/user-attachments/assets/5a059981-6e2b-4c1e-99ab-7f810ba17b1c" />
 
 ## Hi there, I'm Ishan Tiwari. 👋
