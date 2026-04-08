@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ishan Tiwari. 👋
 
-I'm an Engineering Physics student at IIT (ISM) Dhanbad.
+I'm an Engineering Physics undergrad at IIT (ISM) Dhanbad.
 ### 🛡️ What I'm Up To
 * ⚔️ Cybersecurity enthusiast, planning to get to know the open source community better and contribute in the near future.
 
